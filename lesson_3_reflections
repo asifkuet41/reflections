@@ -1,2 +1,8 @@
 When do you want to create a remote repository rather than keeping all your work local?
+
 Ans: When I want to keep backup of my project i create a remote repository.  
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Ans:Manually pulling changes allows me to determine when code is brought down. This means that code won't change
+unexpectedly without me knowing about it.
